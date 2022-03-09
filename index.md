@@ -6,8 +6,8 @@ site: sandpaper::sandpaper_site
 
 Before following this lesson, you should know how to: 
 
--createa a Github account
--edit markdown files in the Github interface
+- createa a Github account
+- edit markdown files in the Github interface
 
 ::::::::::::::::::::::::
 
